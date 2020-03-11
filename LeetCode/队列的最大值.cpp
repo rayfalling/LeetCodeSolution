@@ -45,12 +45,12 @@ public:
  * int param_3 = obj->pop_front();
  */
 
-int main_队列的最大值() {
-	MaxQueue* obj = new MaxQueue();
-	obj->push_back(1);
-	obj->push_back(2);
-	int param_1 = obj->max_value();
-	int param_2 = obj->pop_front();
-	int param_3 = obj->max_value();
-	return 1;
-}
+// int main_队列的最大值() {
+// 	MaxQueue* obj = new MaxQueue();
+// 	obj->push_back(1);
+// 	obj->push_back(2);
+// 	int param_1 = obj->max_value();
+// 	int param_2 = obj->pop_front();
+// 	int param_3 = obj->max_value();
+// 	return 1;
+// }

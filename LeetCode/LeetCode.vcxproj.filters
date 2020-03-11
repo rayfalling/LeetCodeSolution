@@ -24,5 +24,8 @@
     <ClCompile Include="二叉搜索树的最近公共祖先.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="复原IP地址.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

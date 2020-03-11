@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="二叉搜索树的最近公共祖先.cpp" />
+    <ClCompile Include="复原IP地址.cpp" />
     <ClCompile Include="数组中重复的数字.cpp" />
     <ClCompile Include="队列的最大值.cpp" />
   </ItemGroup>
