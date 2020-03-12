@@ -27,5 +27,8 @@
     <ClCompile Include="复原IP地址.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最小高度树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
