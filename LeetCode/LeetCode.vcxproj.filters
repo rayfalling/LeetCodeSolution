@@ -30,5 +30,17 @@
     <ClCompile Include="最小高度树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="买卖股票的最佳时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大子序和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多数元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="不相交的线.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

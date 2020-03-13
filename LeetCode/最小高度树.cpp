@@ -59,7 +59,7 @@ public:
 	}
 };
 
-int main() {
+int main_最小高度树() {
 	Solution s;
 	std::vector<std::vector<int>> edges = {{1, 0}, {1, 2}, {1, 3}};
 	s.findMinHeightTrees(4, edges);

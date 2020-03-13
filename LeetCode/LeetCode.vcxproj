@@ -19,9 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="不相交的线.cpp" />
+    <ClCompile Include="买卖股票的最佳时机.cpp" />
     <ClCompile Include="二叉搜索树的最近公共祖先.cpp" />
     <ClCompile Include="复原IP地址.cpp" />
+    <ClCompile Include="多数元素.cpp" />
     <ClCompile Include="数组中重复的数字.cpp" />
+    <ClCompile Include="最大子序和.cpp" />
     <ClCompile Include="最小高度树.cpp" />
     <ClCompile Include="队列的最大值.cpp" />
   </ItemGroup>
