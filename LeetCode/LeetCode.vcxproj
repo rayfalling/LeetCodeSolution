@@ -27,6 +27,9 @@
     <ClCompile Include="数组中重复的数字.cpp" />
     <ClCompile Include="最大子序和.cpp" />
     <ClCompile Include="最小高度树.cpp" />
+    <ClCompile Include="最长上升子序列.cpp" />
+    <ClCompile Include="栈排序.cpp" />
+    <ClCompile Include="迷你语法分析器.cpp" />
     <ClCompile Include="队列的最大值.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

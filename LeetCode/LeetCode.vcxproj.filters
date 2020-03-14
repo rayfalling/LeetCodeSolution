@@ -42,5 +42,14 @@
     <ClCompile Include="不相交的线.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最长上升子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="栈排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="迷你语法分析器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
