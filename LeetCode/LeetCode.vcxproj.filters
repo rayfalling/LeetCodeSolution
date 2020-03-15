@@ -51,5 +51,16 @@
     <ClCompile Include="迷你语法分析器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="岛屿的最大面积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="使数组唯一的最小增量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="上升的温度.sql">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
