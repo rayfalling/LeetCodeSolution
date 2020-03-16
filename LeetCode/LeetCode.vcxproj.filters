@@ -57,6 +57,15 @@
     <ClCompile Include="使数组唯一的最小增量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="机器人大冒险.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串压缩.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组中数字出现的次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="上升的温度.sql">
