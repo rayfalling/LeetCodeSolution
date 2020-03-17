@@ -66,6 +66,12 @@
     <ClCompile Include="数组中数字出现的次数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="罗马数字转整数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="优势洗牌.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="上升的温度.sql">
