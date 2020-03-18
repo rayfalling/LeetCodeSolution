@@ -28,6 +28,7 @@
     <ClCompile Include="多数元素.cpp" />
     <ClCompile Include="字符串压缩.cpp" />
     <ClCompile Include="岛屿的最大面积.cpp" />
+    <ClCompile Include="强整数.cpp" />
     <ClCompile Include="数组中数字出现的次数.cpp" />
     <ClCompile Include="数组中重复的数字.cpp" />
     <ClCompile Include="最大子序和.cpp" />
@@ -35,6 +36,7 @@
     <ClCompile Include="最长上升子序列.cpp" />
     <ClCompile Include="机器人大冒险.cpp" />
     <ClCompile Include="栈排序.cpp" />
+    <ClCompile Include="矩形重叠.cpp" />
     <ClCompile Include="罗马数字转整数.cpp" />
     <ClCompile Include="迷你语法分析器.cpp" />
     <ClCompile Include="队列的最大值.cpp" />

@@ -72,6 +72,12 @@
     <ClCompile Include="优势洗牌.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="矩形重叠.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="强整数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="上升的温度.sql">
