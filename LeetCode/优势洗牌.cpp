@@ -27,24 +27,24 @@ public:
 	}
 
 	//multiset实现，执行耗时约为100ms
-	std::vector<int> advantageCount(std::vector<int>& A, std::vector<int>& B)
-	{
-		std::vector<int> ans;
-		std::multiset<int> value_set(A.begin(), A.end());
-		for (auto i = 0; i < A.size(); i++) {
-			auto it = value_set.upper_bound(B[i]);
-			if (it != value_set.end()) {
-				ans.push_back(*it);
-				value_set.erase(it);
-			}
-			else {
-				ans.push_back(*value_set.begin());
-				value_set.erase(value_set.begin());
-			}
-		}
-
-		return ans;
-	}
+	// std::vector<int> advantageCount(std::vector<int>& A, std::vector<int>& B)
+	// {
+	// 	std::vector<int> ans;
+	// 	std::multiset<int> value_set(A.begin(), A.end());
+	// 	for (auto i = 0; i < A.size(); i++) {
+	// 		auto it = value_set.upper_bound(B[i]);
+	// 		if (it != value_set.end()) {
+	// 			ans.push_back(*it);
+	// 			value_set.erase(it);
+	// 		}
+	// 		else {
+	// 			ans.push_back(*value_set.begin());
+	// 			value_set.erase(value_set.begin());
+	// 		}
+	// 	}
+	//
+	// 	return ans;
+	// }
 };
 
 int main_优势洗牌() {

@@ -78,6 +78,21 @@
     <ClCompile Include="强整数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最长回文串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树的最小深度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="找出克隆二叉树中的相同节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="坏了的计算器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="存在重复元素 II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="上升的温度.sql">
