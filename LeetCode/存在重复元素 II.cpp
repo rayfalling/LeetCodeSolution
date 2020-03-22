@@ -19,7 +19,7 @@ public:
 	}
 };
 
-int main() {
+int main_´æÔÚÖØ¸´ÔªËØ_II() {
 	Solution s;
 	std::vector<int> vec = {1, 2, 3, 1, 2, 3};
 	s.containsNearbyDuplicate(vec, 2);

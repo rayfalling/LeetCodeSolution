@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="下一个更大元素 I.cpp" />
     <ClCompile Include="不相交的线.cpp" />
     <ClCompile Include="买卖股票的最佳时机.cpp" />
     <ClCompile Include="二叉搜索树的最近公共祖先.cpp" />
@@ -35,6 +36,7 @@
     <ClCompile Include="找出克隆二叉树中的相同节点.cpp" />
     <ClCompile Include="数组中数字出现的次数.cpp" />
     <ClCompile Include="数组中重复的数字.cpp" />
+    <ClCompile Include="数组的度.cpp" />
     <ClCompile Include="最大子序和.cpp" />
     <ClCompile Include="最小高度树.cpp" />
     <ClCompile Include="最长上升子序列.cpp" />

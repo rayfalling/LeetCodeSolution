@@ -93,6 +93,12 @@
     <ClCompile Include="存在重复元素 II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="数组的度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="下一个更大元素 I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="上升的温度.sql">
