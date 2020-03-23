@@ -26,7 +26,10 @@
     <ClCompile Include="二叉树的最小深度.cpp" />
     <ClCompile Include="优势洗牌.cpp" />
     <ClCompile Include="使数组唯一的最小增量.cpp" />
+    <ClCompile Include="判定是否互为字符重排.cpp" />
+    <ClCompile Include="判断是否为字符串重排.cpp" />
     <ClCompile Include="坏了的计算器.cpp" />
+    <ClCompile Include="复写零.cpp" />
     <ClCompile Include="复原IP地址.cpp" />
     <ClCompile Include="多数元素.cpp" />
     <ClCompile Include="字符串压缩.cpp" />
@@ -41,11 +44,13 @@
     <ClCompile Include="最小高度树.cpp" />
     <ClCompile Include="最长上升子序列.cpp" />
     <ClCompile Include="最长回文串.cpp" />
+    <ClCompile Include="最长递增子序列的个数.cpp" />
     <ClCompile Include="机器人大冒险.cpp" />
     <ClCompile Include="栈排序.cpp" />
     <ClCompile Include="矩形重叠.cpp" />
     <ClCompile Include="罗马数字转整数.cpp" />
     <ClCompile Include="迷你语法分析器.cpp" />
+    <ClCompile Include="链表的中间结点.cpp" />
     <ClCompile Include="队列的最大值.cpp" />
   </ItemGroup>
   <ItemGroup>

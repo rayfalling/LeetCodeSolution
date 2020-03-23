@@ -99,6 +99,21 @@
     <ClCompile Include="下一个更大元素 I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="判定是否互为字符重排.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表的中间结点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最长递增子序列的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="复写零.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断是否为字符串重排.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="上升的温度.sql">
