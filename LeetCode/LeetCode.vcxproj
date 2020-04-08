@@ -24,10 +24,14 @@
     <ClCompile Include="买卖股票的最佳时机.cpp" />
     <ClCompile Include="二叉搜索树的最近公共祖先.cpp" />
     <ClCompile Include="二叉树的最小深度.cpp" />
+    <ClCompile Include="二进制矩阵中的最短路径.cpp" />
     <ClCompile Include="优势洗牌.cpp" />
     <ClCompile Include="使数组唯一的最小增量.cpp" />
-    <ClCompile Include="判定是否互为字符重排.cpp" />
+    <ClCompile Include="先序遍历构造二叉树.cpp" />
+    <ClCompile Include="删点成林.cpp" />
     <ClCompile Include="判断是否为字符串重排.cpp" />
+    <ClCompile Include="单词的压缩编码.cpp" />
+    <ClCompile Include="地图分析.cpp" />
     <ClCompile Include="坏了的计算器.cpp" />
     <ClCompile Include="复写零.cpp" />
     <ClCompile Include="复原IP地址.cpp" />
@@ -37,6 +41,7 @@
     <ClCompile Include="岛屿的最大面积.cpp" />
     <ClCompile Include="强整数.cpp" />
     <ClCompile Include="找出克隆二叉树中的相同节点.cpp" />
+    <ClCompile Include="排序数组.cpp" />
     <ClCompile Include="数组中数字出现的次数.cpp" />
     <ClCompile Include="数组中重复的数字.cpp" />
     <ClCompile Include="数组的度.cpp" />
@@ -47,6 +52,7 @@
     <ClCompile Include="最长递增子序列的个数.cpp" />
     <ClCompile Include="机器人大冒险.cpp" />
     <ClCompile Include="栈排序.cpp" />
+    <ClCompile Include="检查子树.cpp" />
     <ClCompile Include="矩形重叠.cpp" />
     <ClCompile Include="罗马数字转整数.cpp" />
     <ClCompile Include="迷你语法分析器.cpp" />
@@ -125,6 +131,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>

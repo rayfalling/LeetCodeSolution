@@ -99,9 +99,6 @@
     <ClCompile Include="下一个更大元素 I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="判定是否互为字符重排.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="链表的中间结点.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -112,6 +109,27 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="判断是否为字符串重排.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="单词的压缩编码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="地图分析.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="删点成林.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="先序遍历构造二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="检查子树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二进制矩阵中的最短路径.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
