@@ -24,7 +24,9 @@
     <ClCompile Include="买卖股票的最佳时机.cpp" />
     <ClCompile Include="二叉搜索树的最近公共祖先.cpp" />
     <ClCompile Include="二叉树的最小深度.cpp" />
+    <ClCompile Include="二维数组中的查找.cpp" />
     <ClCompile Include="二进制矩阵中的最短路径.cpp" />
+    <ClCompile Include="从尾到头打印链表.cpp" />
     <ClCompile Include="优势洗牌.cpp" />
     <ClCompile Include="使数组唯一的最小增量.cpp" />
     <ClCompile Include="先序遍历构造二叉树.cpp" />
@@ -45,6 +47,7 @@
     <ClCompile Include="数组中数字出现的次数.cpp" />
     <ClCompile Include="数组中重复的数字.cpp" />
     <ClCompile Include="数组的度.cpp" />
+    <ClCompile Include="替换空格.cpp" />
     <ClCompile Include="最大子序和.cpp" />
     <ClCompile Include="最小高度树.cpp" />
     <ClCompile Include="最长上升子序列.cpp" />
@@ -56,6 +59,7 @@
     <ClCompile Include="矩形重叠.cpp" />
     <ClCompile Include="罗马数字转整数.cpp" />
     <ClCompile Include="迷你语法分析器.cpp" />
+    <ClCompile Include="重建二叉树.cpp" />
     <ClCompile Include="链表的中间结点.cpp" />
     <ClCompile Include="队列的最大值.cpp" />
   </ItemGroup>
