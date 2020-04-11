@@ -156,6 +156,15 @@
     <ClCompile Include="旋转数组的最小数字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="网易互娱笔试2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="网易互娱笔试1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="网易互娱笔试3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="上升的温度.sql">

@@ -58,8 +58,11 @@
     <ClCompile Include="机器人大冒险.cpp" />
     <ClCompile Include="栈排序.cpp" />
     <ClCompile Include="检查子树.cpp" />
+    <ClCompile Include="网易互娱笔试1.cpp" />
     <ClCompile Include="用两个栈实现队列.cpp" />
     <ClCompile Include="矩形重叠.cpp" />
+    <ClCompile Include="网易互娱笔试2.cpp" />
+    <ClCompile Include="网易互娱笔试3.cpp" />
     <ClCompile Include="罗马数字转整数.cpp" />
     <ClCompile Include="迷你语法分析器.cpp" />
     <ClCompile Include="重建二叉树.cpp" />
