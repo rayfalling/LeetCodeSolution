@@ -8,7 +8,7 @@ public:
 		std::map<int, int> mp;
 		std::stack<int> stack;
 
-        for (int value : nums1) {
+        for (auto value : nums1) {
             mp[value] = -1;
         }
 

@@ -28,7 +28,7 @@ public:
 		if (q.empty()) {
 			return -1;
 		}
-		int res = q.front();
+		const auto res = q.front();
 		if (d.front() == res) {
 			d.pop_front();
 		}

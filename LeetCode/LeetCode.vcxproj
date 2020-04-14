@@ -32,6 +32,8 @@
     <ClCompile Include="先序遍历构造二叉树.cpp" />
     <ClCompile Include="删点成林.cpp" />
     <ClCompile Include="判断是否为字符串重排.cpp" />
+    <ClCompile Include="剪绳子 II.cpp" />
+    <ClCompile Include="剪绳子.cpp" />
     <ClCompile Include="单词的压缩编码.cpp" />
     <ClCompile Include="地图分析.cpp" />
     <ClCompile Include="坏了的计算器.cpp" />
@@ -56,13 +58,12 @@
     <ClCompile Include="最长回文串.cpp" />
     <ClCompile Include="最长递增子序列的个数.cpp" />
     <ClCompile Include="机器人大冒险.cpp" />
+    <ClCompile Include="机器人的运动范围.cpp" />
     <ClCompile Include="栈排序.cpp" />
     <ClCompile Include="检查子树.cpp" />
-    <ClCompile Include="网易互娱笔试1.cpp" />
+    <ClCompile Include="矩阵中的路径.cpp" />
     <ClCompile Include="用两个栈实现队列.cpp" />
     <ClCompile Include="矩形重叠.cpp" />
-    <ClCompile Include="网易互娱笔试2.cpp" />
-    <ClCompile Include="网易互娱笔试3.cpp" />
     <ClCompile Include="罗马数字转整数.cpp" />
     <ClCompile Include="迷你语法分析器.cpp" />
     <ClCompile Include="重建二叉树.cpp" />

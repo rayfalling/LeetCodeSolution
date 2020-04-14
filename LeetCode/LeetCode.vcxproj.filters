@@ -156,13 +156,16 @@
     <ClCompile Include="旋转数组的最小数字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="网易互娱笔试2.cpp">
+    <ClCompile Include="矩阵中的路径.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="网易互娱笔试1.cpp">
+    <ClCompile Include="机器人的运动范围.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="网易互娱笔试3.cpp">
+    <ClCompile Include="剪绳子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剪绳子 II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

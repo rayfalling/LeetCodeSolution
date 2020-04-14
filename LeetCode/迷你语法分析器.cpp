@@ -62,7 +62,7 @@ public:
 				}
 				if (stack_.top() == '[' && c == ']') {
 					stack_.pop();
-					auto res = ne_stack_.top();
+					const auto res = ne_stack_.top();
 					ne_stack_.pop();
 					if (ne_stack_.empty()) {
 						return *res;

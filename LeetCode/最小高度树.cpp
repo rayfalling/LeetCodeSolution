@@ -30,7 +30,7 @@ public:
 		//n > 2的时候
 		while (n > 2) {
 			//取出所有叶子节点的数量
-			int size = q.size();
+			const int size = q.size();
 			//使n为根节点的数量
 			n -= size;
 			for (auto i = 0; i < size; i++) {

@@ -26,7 +26,7 @@ public:
 				break;
 			}
 		}
-		auto node = new TreeNode(preorder[left]);
+		const auto node = new TreeNode(preorder[left]);
 		node->left = bstFromPreorder(preorder, left + 1, i - 1);
 		node->right = bstFromPreorder(preorder, i, right);
 		return node;

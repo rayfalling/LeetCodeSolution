@@ -3,7 +3,7 @@
 class Solution {
 public:
     int maxDistance(std::vector<std::vector<int>>& grid) {
-        int N = grid.size();
+	    const int N = grid.size();
         auto count_land = 0;
         auto count_turn = 0;
         for (auto i = 0; i < N; i++) {
