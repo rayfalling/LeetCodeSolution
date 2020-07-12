@@ -168,6 +168,15 @@
     <ClCompile Include="剪绳子 II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="两数相加.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="地下城游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="通知所有员工所需的时间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="上升的温度.sql">

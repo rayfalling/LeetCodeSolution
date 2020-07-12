@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="下一个更大元素 I.cpp" />
     <ClCompile Include="不相交的线.cpp" />
+    <ClCompile Include="两数相加.cpp" />
     <ClCompile Include="买卖股票的最佳时机.cpp" />
     <ClCompile Include="二叉搜索树的最近公共祖先.cpp" />
     <ClCompile Include="二叉树的最小深度.cpp" />
@@ -35,6 +36,7 @@
     <ClCompile Include="剪绳子 II.cpp" />
     <ClCompile Include="剪绳子.cpp" />
     <ClCompile Include="单词的压缩编码.cpp" />
+    <ClCompile Include="地下城游戏.cpp" />
     <ClCompile Include="地图分析.cpp" />
     <ClCompile Include="坏了的计算器.cpp" />
     <ClCompile Include="复写零.cpp" />
@@ -66,6 +68,7 @@
     <ClCompile Include="矩形重叠.cpp" />
     <ClCompile Include="罗马数字转整数.cpp" />
     <ClCompile Include="迷你语法分析器.cpp" />
+    <ClCompile Include="通知所有员工所需的时间.cpp" />
     <ClCompile Include="重建二叉树.cpp" />
     <ClCompile Include="链表的中间结点.cpp" />
     <ClCompile Include="队列的最大值.cpp" />
