@@ -67,6 +67,7 @@
     <ClCompile Include="用两个栈实现队列.cpp" />
     <ClCompile Include="矩形重叠.cpp" />
     <ClCompile Include="罗马数字转整数.cpp" />
+    <ClCompile Include="课程表.cpp" />
     <ClCompile Include="迷你语法分析器.cpp" />
     <ClCompile Include="通知所有员工所需的时间.cpp" />
     <ClCompile Include="重建二叉树.cpp" />
@@ -159,6 +160,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>

@@ -177,6 +177,9 @@
     <ClCompile Include="通知所有员工所需的时间.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="课程表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="上升的温度.sql">
